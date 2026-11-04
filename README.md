@@ -50,6 +50,11 @@ with each page compared visually with the scan.
   25); this is corrected. Some words that the print sets in italics are roman in the edition.
 - The other pages have not had a second check.
 
+## Status
+
+All ten papers are complete in German and English. Errors may remain in the transcription and the translation;
+corrections are welcome through the [issues page](https://github.com/KokunoYumeto/frobenius-group-characters/issues).
+
 ## Building
 
 Run `pdflatex` twice on each file in `tex/`.
@@ -58,11 +63,6 @@ Run `pdflatex` twice on each file in `tex/`.
 
 Frobenius's papers are in the public domain. The transcription, translation and typesetting are dedicated to the
 public domain under [CC0 1.0](LICENSE).
-
-## Earlier versions
-
-Earlier versions were published on Zenodo, [doi:10.5281/zenodo.20673444](https://doi.org/10.5281/zenodo.20673444).
-Zenodo has blocked access to our account, so please use this repository from now on.
 
 ---
 
