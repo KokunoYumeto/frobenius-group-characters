@@ -43,7 +43,7 @@ with each page compared visually with the scan.
   hyperkomplexen Größen*, formulas (8.) and (10.) of §9, the words "der Ordnung r" in §10 and formulas (4.)–(5.) of
   §15; in part II, formula (2.) of §2, the readings z = zx⁰ + … and |S(z)| = zⁿ in §4, and the construction of
   f<sub>λ</sub> before (11\*.) in §5.
-- On 27 October 2026 Claude Opus 5.5 (Anthropic, effort not recorded) compared printed page 25 of *Über die Primfactoren der
+- On 27 October 2026 Claude Opus 5.5 (Anthropic) at effort max compared printed page 25 of *Über die Primfactoren der
   Gruppendeterminante* and page 9 of *Über die Charaktere der symmetrischen Gruppe* with the scans, and the English of
   the latter page with the German. The formulas agree with the print. The transcription had "characteristisch" where
   the print has "charakteristisch", in all five places where the word occurs (checked on the scan at pages 17 and
